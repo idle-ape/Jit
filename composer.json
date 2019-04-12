@@ -1,5 +1,5 @@
 {
-	"name": "idle-ape/Jit",
+	"name": "idle-ape/jit",
 	"description": "Core framework for JitPHP",
 	"version": "1.0.0",
 	"type": "framework",
