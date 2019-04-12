@@ -1,0 +1,28 @@
+{
+	"name": "idle-ape/framework",
+	"description": "Core framework for JitPHP",
+	"version": "1.0.0",
+	"type": "framework",
+	"keywords": [
+		"Swoole",
+		"JitPHP",
+        "Framework"
+	],
+	"homepage": "http://www.idleape.cn",
+	"time": "2019-04-12",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Bourne",
+            "email": "kingphper@foxmail.com",
+            "homepage": "http://www.idleape.cn",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+    	"email": "kingphper@foxmail.com"
+    },
+    "require": {
+
+    }
+}
